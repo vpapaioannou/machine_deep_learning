@@ -1,18 +1,17 @@
-A collection of machine and deep learning resources. In case something is missing or a link is not working, please create an issue [here](https://github.com/vpapaioannou/machine_deep_learning_resources/issues).
+A collection of machine and deep learning resources and issues encountered.
+In case something is missing or a link is not working, please create an issue [here](https://github.com/vpapaioannou/machine_deep_learning_resources/issues).
 
-# Python
+# Books
 
-- [Awesome Python](https://github.com/vinta/awesome-python)
-
-# Statistics
-
-- [Notched Box Plots](https://sites.google.com/site/davidsstatistics/davids-statistics/notched-box-plots)
+- [Deep Learning with PyTorch, Second Edition](https://www.manning.com/books/deep-learning-with-pytorch-second-edition)
 
 # Machine Learning
 
+- [How to Build a Predictive Model in Python?](https://365datascience.com/tutorials/python-tutorials/predictive-model-python/)
 - [24 Evaluation Metrics for Binary Classification (And When to Use Them)](https://neptune.ai/blog/evaluation-metrics-binary-classification?utm_campaign=blog-evaluation-metrics-binary-classification&utm_content=blog&utm_medium=answer&utm_source=quora)
+- [How to Use ROC Curves and Precision-Recall Curves for Classification in Python](https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/)
 - [What is an intuitive explanation of F-score?](https://www.quora.com/What-is-an-intuitive-explanation-of-F-score?share=1)
-- [Matplolib colorbar label size](https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.axes.Axes.tick_params.html)
+- [Formulating and Implementing the t-SNE Algorithm From Scratch](https://www.dailydoseofds.com/formulating-and-implementing-the-t-sne-algorithm-from-scratch/)
 
 # Deep Learning
 
@@ -20,9 +19,8 @@ A collection of machine and deep learning resources. In case something is missin
   - [Pytorch Weight Initialization](https://stackoverflow.com/questions/49433936/how-to-initialize-weights-in-pytorch)
   - [Understanding Neural Network Weight Initialization](https://intoli.com/blog/neural-network-initialization/)
   - [What is the "dying ReLU" problem in neural networks?](https://datascience.stackexchange.com/questions/5706/what-is-the-dying-relu-problem-in-neural-networks)
-- Ground truth for superviced learning
+- Label data for superviced learning
   - [Image labeling](https://github.com/wkentaro/labelme)
-- [PyTables](https://www.machinelearninguru.com/deep_learning/data_preparation/hdf5/hdf5.html) Store data on a Python "database".
 - [How Are Principal Component Analysis and Singular Value Decomposition Related?](https://intoli.com/blog/pca-and-svd/)
     
 # MLOps
