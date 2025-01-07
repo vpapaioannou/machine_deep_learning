@@ -1,4 +1,4 @@
-A collection of coding resources. In case something is missing or a link is not working, please create an issue [here](https://github.com/vpapaioannou/machine_deep_learning_resources/issues).
+A collection of machine and deep learning resources. In case something is missing or a link is not working, please create an issue [here](https://github.com/vpapaioannou/machine_deep_learning_resources/issues).
 
 # Python
 
