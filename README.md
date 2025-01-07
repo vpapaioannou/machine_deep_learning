@@ -23,4 +23,4 @@ A collection of machine and deep learning resources. In case something is missin
       
 - [Awesome MLOPs](https://github.com/kelvins/awesome-mlops)
 - [MLOps vs DevOps](https://aws.amazon.com/what-is/mlops/)
-- [MLOps Pipeline]()
+- [MLOps Pipeline](https://github.com/vpapaioannou/machine_deep_learning_resources/blob/main/3-ML-Lifecycle-Detail.jpg)
