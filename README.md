@@ -19,7 +19,7 @@ In case something is missing or a link is not working, please create an issue [h
   - [Pytorch Weight Initialization](https://stackoverflow.com/questions/49433936/how-to-initialize-weights-in-pytorch)
   - [Understanding Neural Network Weight Initialization](https://intoli.com/blog/neural-network-initialization/)
   - [What is the "dying ReLU" problem in neural networks?](https://datascience.stackexchange.com/questions/5706/what-is-the-dying-relu-problem-in-neural-networks)
-- Label data for superviced learning
+- Label data for supervised learning
   - [Image labeling](https://github.com/wkentaro/labelme)
 - [How Are Principal Component Analysis and Singular Value Decomposition Related?](https://intoli.com/blog/pca-and-svd/)
     
